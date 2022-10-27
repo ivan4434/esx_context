@@ -23,3 +23,5 @@ files {
 dependencies {
     'es_extended'
 }
+
+provide 'esx_menu_default'
